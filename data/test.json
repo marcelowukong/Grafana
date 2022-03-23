@@ -1,17 +1,8 @@
 {
   "Countries": [
     {
-      "ID": "83c242b9-604c-49df-b1da-f9bc13af8677",
-      "Country": "Afghanistan",
-      "CountryCode": "AF",
-      "Slug": "afghanistan",
-      "NewConfirmed": 0,
-      "TotalConfirmed": 177191,
-      "NewDeaths": 0,
-      "TotalDeaths": 7654,
-      "NewRecovered": 0,
-      "TotalRecovered": 0,
-      "Date": "2022-03-22T21:31:42.057Z"
+      "data hora": "05/10/2021 13:10:10",
+      "temperatura": "1.5",
     }
   ]
 }
